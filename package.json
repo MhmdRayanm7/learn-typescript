@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MhmdRayanm7/TsLearn/issues"
   },
-  "homepage": "https://github.com/MhmdRayanm7/TsLearn#readme"
+  "homepage": "https://github.com/MhmdRayanm7/TsLearn#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
