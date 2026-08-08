@@ -1,9 +1,9 @@
-"use strict";
 function main() {
     const projectName = "support.ai";
-    welcome(projectName);
+    console.log(welcome(projectName));
 }
 function welcome(name) {
     return "Hello, " + name.toLowerCase();
 }
 main();
+export {};
